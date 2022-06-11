@@ -1,0 +1,30 @@
+form {
+    width: 250px;
+    border: 1px solid rgb(230, 230, 230);
+    margin: 3% auto;
+    padding: 1%;
+    background: white;
+  }
+
+#navbar{
+    /* display: flex; */
+    text-align: center;
+    height: 80px;
+    width: 100%;
+    border: 1px solid red;;
+}
+#submit {
+    width: 70%;
+    margin: auto;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 15px;
+  }
+  input{
+    display: block;
+    margin: 10px 0px;
+    font-size: 20px;
+    padding: 2%;
+    text-align: center;
+  }

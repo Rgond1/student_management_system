@@ -1,0 +1,35 @@
+#navbar{
+    text-align: center;
+      height: 80px;
+      width: 100%;
+      border: 1px solid red;;
+  }
+  
+  table,
+  td,
+  th {
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  table {
+      border-collapse: collapse;
+      width: 70%;
+      margin: auto;
+      margin-top: 50px;
+    }
+  
+    th,
+  td {
+    padding: 15px;
+  }
+  
+  tr > th {
+    background-color: teal;
+    color: white;
+  }
+  img{
+      height: 120px;
+      width: 80%;
+  
+  }
